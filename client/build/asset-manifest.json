@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.fe229211.chunk.js",
-    "main.js.map": "/static/js/main.fe229211.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e306ff26.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e306ff26.js.map",
-    "static/js/2.e1ad937b.chunk.js": "/static/js/2.e1ad937b.chunk.js",
-    "static/js/2.e1ad937b.chunk.js.map": "/static/js/2.e1ad937b.chunk.js.map",
-    "static/js/3.ba47fb54.chunk.js": "/static/js/3.ba47fb54.chunk.js",
-    "static/js/3.ba47fb54.chunk.js.map": "/static/js/3.ba47fb54.chunk.js.map",
+    "main.css": "/static/css/main.bba5ffcc.chunk.css",
+    "main.js": "/static/js/main.2453adc7.chunk.js",
+    "main.js.map": "/static/js/main.2453adc7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.776c1e0d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.776c1e0d.js.map",
+    "static/css/2.b0d5651f.chunk.css": "/static/css/2.b0d5651f.chunk.css",
+    "static/js/2.7c34c547.chunk.js": "/static/js/2.7c34c547.chunk.js",
+    "static/js/2.7c34c547.chunk.js.map": "/static/js/2.7c34c547.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.e1ad937b.chunk.js.LICENSE.txt": "/static/js/2.e1ad937b.chunk.js.LICENSE.txt"
+    "static/css/2.b0d5651f.chunk.css.map": "/static/css/2.b0d5651f.chunk.css.map",
+    "static/css/main.bba5ffcc.chunk.css.map": "/static/css/main.bba5ffcc.chunk.css.map",
+    "static/js/2.7c34c547.chunk.js.LICENSE.txt": "/static/js/2.7c34c547.chunk.js.LICENSE.txt",
+    "static/media/NavCSS.css": "/static/media/Moderna.31d6cfe0.woff2",
+    "static/media/logo.31d6cfe0.svg": "/static/media/logo.31d6cfe0.svg",
+    "static/media/logo_w_text.31d6cfe0.svg": "/static/media/logo_w_text.31d6cfe0.svg",
+    "static/media/SavedCSS.css": "/static/media/repeated_hearts_background.31d6cfe0.svg",
+    "static/media/repeated_logo_background.31d6cfe0.svg": "/static/media/repeated_logo_background.31d6cfe0.svg",
+    "static/media/repeated_logo_w_text_background.31d6cfe0.svg": "/static/media/repeated_logo_w_text_background.31d6cfe0.svg",
+    "static/media/trash.31d6cfe0.svg": "/static/media/trash.31d6cfe0.svg",
+    "static/media/you_are_here.31d6cfe0.svg": "/static/media/you_are_here.31d6cfe0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e306ff26.js",
-    "static/js/2.e1ad937b.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.fe229211.chunk.js"
+    "static/js/runtime-main.776c1e0d.js",
+    "static/css/2.b0d5651f.chunk.css",
+    "static/js/2.7c34c547.chunk.js",
+    "static/css/main.bba5ffcc.chunk.css",
+    "static/js/main.2453adc7.chunk.js"
   ]
 }
